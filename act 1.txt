@@ -1,0 +1,7 @@
+Applying modular and functional programming principles fundamentally changes how I approach software development by making the entire process more organized, predictable, and manageable.
+
+When writing code, embracing pure functions and immutability means I no longer have to worry about hidden side effects. Knowing that a function will always return the same output for the same input turns my code into reliable building blocks. It makes the code much easier to read and test because I don't have to track down variables that might have changed unexpectedly.
+
+For team collaboration, the separation of concerns found in modular programming is a massive advantage. By breaking a complex system into small, self-contained modules, my teammates and I can work on separate features simultaneously. This minimizes the risk of merge conflicts and prevents us from accidentally breaking each other's code when making updates.
+
+Finally, debugging complex applications transforms from guesswork into a systematic process. Modularity contains failures, preventing an error in one module from crashing the entire application. Combined with pure functions, bugs are highly localized. I can simply test the failing function in isolation with the exact inputs that caused the issue. Ultimately, these principles shift my focus from just writing code that "works" to building resilient software that is easy to maintain.
